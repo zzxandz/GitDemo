@@ -1,1 +1,2 @@
 Implemented a cool login system
+Added social media logins capability
